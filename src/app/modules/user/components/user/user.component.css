@@ -1,0 +1,4 @@
+.userCont{
+  display: flex;
+  justify-content: space-between;
+}
