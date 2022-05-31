@@ -1,0 +1,12 @@
+.cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  background-color: #9dadff;
+}
+a{
+  text-decoration: none;
+  padding: 0 20px;
+  color: #381950;
+}
