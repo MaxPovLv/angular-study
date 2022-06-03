@@ -16,7 +16,8 @@ export class CommentComponent implements OnInit {
 
   ngOnInit(): void {
   }
+
   getDetails(): void {
-    this.router.navigate([this.comment .id], {relativeTo: this.activatedRoute})
+    this.router.navigate([this.comment.id], {relativeTo: this.activatedRoute})
   }
 }
